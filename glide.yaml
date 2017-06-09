@@ -1,0 +1,9 @@
+package: justdevelop.it/goaway
+import:
+- package: gopkg.in/ini.v1
+- package: github.com/go-sql-driver/mysql
+- package: github.com/hpcloud/tail
+- package: github.com/MindscapeHQ/raygun4go
+- package: github.com/google/gopacket
+- package: gopkg.in/redis.v5
+- package: gopkg.in/bsm/ratelimit.v1

@@ -1,0 +1,36 @@
+body {
+  background: #3a3a3a;
+  color:#fff;
+}
+.inline-list {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0.94444rem;
+  margin-left: -1.22222rem;
+  margin-right: 0;
+  overflow: hidden;
+  padding: 0;
+}
+.inline-list > li {
+  display: block;
+  float: left;
+  list-style: none;
+  margin-left: 1.22222rem;
+}
+.inline-list > li > * {
+  display: block;
+}
+
+
+table tbody, table tfoot, table thead {
+  border: 1px solid #000;
+  background-color: #555;
+}
+table thead {
+  background: #333;
+  color: #fff;
+}
+table tbody tr:nth-child(even) {
+  border-bottom: 0;
+  background-color: #333;
+}

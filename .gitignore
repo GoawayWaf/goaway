@@ -1,0 +1,13 @@
+
+/tmp/
+/.idea/
+/vendor/
+/ui/site/www.goawaydash.co/public/bower_components/
+glide.lock
+build
+goaway
+#conf/dev.conf
+conf/prod.conf
+conf/qa.conf
+conf/uat.conf
+conf/rsa
